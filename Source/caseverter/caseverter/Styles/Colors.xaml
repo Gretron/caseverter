@@ -1,0 +1,74 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- #region Light Black -->
+    
+    <Color x:Key="LightBlackColor">#211f1c</Color>
+    <SolidColorBrush x:Key="LightBlackBrush" Color="{StaticResource LightBlackColor}" />
+    
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region Black -->
+
+    <Color x:Key="BlackColor">#171614</Color>
+    <SolidColorBrush x:Key="BlackBrush" Color="{StaticResource BlackColor}" />
+
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region Dark Black -->
+
+    <Color x:Key="DarkBlackColor">#0b0a09</Color>
+    <SolidColorBrush x:Key="DarkBlackBrush" Color="{StaticResource DarkBlackColor}" />
+
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region White -->
+
+    <Color x:Key="WhiteColor">#e1e2ef</Color>
+    <SolidColorBrush x:Key="WhiteBrush" Color="{StaticResource WhiteColor}" />
+
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region Dark White -->
+
+    <Color x:Key="DarkWhiteColor">#d7d8ea</Color>
+    <SolidColorBrush x:Key="DarkWhiteBrush" Color="{StaticResource DarkWhiteColor}" />
+
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region Very Dark White -->
+
+    <Color x:Key="VeryDarkWhiteColor">#cacce2</Color>
+    <SolidColorBrush x:Key="VeryDarkWhiteBrush" Color="{StaticResource VeryDarkWhiteColor}" />
+
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region Red -->
+
+    <Color x:Key="RedColor">#db2b39</Color>
+    <SolidColorBrush x:Key="RedBrush" Color="{StaticResource RedColor}" />
+
+    <!-- #endregion -->
+
+
+
+    <!-- #region Dark Red -->
+
+    <Color x:Key="DarkRedColor">#d12332</Color>
+    <SolidColorBrush x:Key="DarkRedBrush" Color="{StaticResource DarkRedColor}" />
+
+    <!-- #endregion -->
+
+</ResourceDictionary>

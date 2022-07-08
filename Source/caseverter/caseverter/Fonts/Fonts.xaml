@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- #region Fonts -->
+    
+    <!-- MADE TOMMY Font -->
+    <FontFamily x:Key="MADE TOMMY">pack://application:,,,/Fonts/#MADE TOMMY</FontFamily>
+    
+    <!-- #endregion -->
+    
+    
+
+    <!-- #region Base Font Styles -->
+
+    <Style TargetType="{x:Type Control}" x:Key="BaseFontStyle">
+        <Setter Property="FontFamily" Value="{StaticResource MADE TOMMY}" />
+    </Style>
+
+    <Style TargetType="{x:Type TextBlock}" x:Key="BaseTextBlockFontStyle">
+        <Setter Property="FontFamily" Value="{StaticResource MADE TOMMY}" />
+    </Style>
+
+    <!-- #endregion-->
+    
+    
+
+    <!-- #region Default Font Styles -->
+
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource BaseFontStyle}" />
+    <Style TargetType="{x:Type Label}" BasedOn="{StaticResource BaseFontStyle}" />
+    <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource BaseFontStyle}" />
+    <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource BaseTextBlockFontStyle}" />
+    <Style TargetType="{x:Type ListView}" BasedOn="{StaticResource BaseFontStyle}" />
+
+    <!-- #endregion -->
+
+</ResourceDictionary>

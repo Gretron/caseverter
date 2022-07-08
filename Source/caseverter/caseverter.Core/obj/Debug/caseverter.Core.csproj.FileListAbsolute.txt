@@ -1,0 +1,11 @@
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\bin\Debug\caseverter.Core.dll
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\bin\Debug\caseverter.Core.pdb
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.dll
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.pdb
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\bin\Debug\Ninject.dll
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\bin\Debug\Ninject.xml
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.csproj.CopyComplete
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.csproj.Fody.CopyLocal.cache
+C:\Users\david\Documents\GitHub\caseverter\Source\caseverter\caseverter.Core\obj\Debug\caseverter.Core.csproj.Fody.RuntimeCopyLocal.cache
